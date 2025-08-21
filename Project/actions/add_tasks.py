@@ -1,4 +1,5 @@
 def add_tasks():
+    #initialize
     tasks = []
     task_input = ""
 

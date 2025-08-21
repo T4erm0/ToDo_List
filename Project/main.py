@@ -5,6 +5,7 @@ print("What would you like to do?")
 print("1. Add a task")
 print("2. Remove a task")
 
+#initialize
 task = []
 
 user_input = int(input("Enter your choice: "))
